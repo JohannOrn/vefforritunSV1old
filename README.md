@@ -1,5 +1,5 @@
 # Stórt verkefni 1 í Vefforritun 1
-Upplýsingar um verkefnið
+Þetta er æfingaverkefni þar sem búin er til tilbúin síða fyrir gervifyrirtæki. Um er að ræða hópverkefni sem unnið var í námskeiðinu TÖL107G Vefforritun 1 við Verkfræði- og náttúruvísindasvið Háskóla Íslands á haustönn 2017.
 
 
 # Höfundar
@@ -12,7 +12,7 @@ Guðmundur .......
 Miða skal við að einhver sem ekki veit neitt um verkefnið geti keyrt það án vandræða
 
 
-# Lýsingu á uppsetningu verkefnis
+# Lýsing á uppsetningu verkefnis
 -Hvernig því er skipt í möppur
 
 -hvernig CSS er skipulagt
