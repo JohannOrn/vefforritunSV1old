@@ -11,5 +11,7 @@ Hér fyrir neðan þurfa skv. verkefnalýsingu eftirfarandi upplýsingar að kom
   skipulagt og fleira sem á við
 
   Upplýsingar um alla sem unnu verkefni
+  
   Jóhann Örn Sigurjónsson (jos34@hi.is) 1. árs nemi í hugbúnaðarverkfræði
+  
   Guðmundur .......
